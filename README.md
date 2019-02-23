@@ -1,6 +1,6 @@
 # IoT-voice-app-Batch-3
 A convergence of AI, Voice, Blockchain, Cloud Native, and Edge
-batch 3 (saturday 1pm to 3pm)
+batch 3 (saturday 6pm to 8pm)
 
 note: this repository dedicated for a class which is tought locally in Axiom Education, karachi (https://www.facebook.com/groups/iot.dev.pk)
 
